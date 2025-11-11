@@ -1,0 +1,1 @@
+Perintah git init digunakan untuk menginisialisasi repositori Git baru di suatu direktori. 
