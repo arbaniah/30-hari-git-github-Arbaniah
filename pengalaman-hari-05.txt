@@ -1,0 +1,1 @@
+“Saya mengubah isi file sehingga statusnya menjadi modified. Setelah menjalankan git restore, isi file kembali ke versi commit terakhir. Menurut pengamatan saya, git restore berfungsi untuk mengembalikan file yang berubah ke kondisi sebelum perubahan dilakukan.”
