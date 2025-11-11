@@ -44,3 +44,5 @@ Langkah-langkah membuat Nasi Goreng Spesial:
 8.Cicipi dan sesuaikan rasa.
 
 9.Sajikan dengan taburan bawang goreng, acar, atau kerupuk.
+Catatan: Tambahkan irisan timun agar lebih segar
+"docs: Menambahkan catatan pada resep"
