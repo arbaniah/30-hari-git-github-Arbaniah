@@ -1,0 +1,13 @@
+
+C:\Users\ACER\30-hari-git-github-Arbaniah>git log
+commit e33a21f2ac30c1327cba261d8a991817ec42f2d0 (HEAD -> main)
+Author: Arbaniah <inyahrahman@gmail.com>
+Date:   Tue Nov 11 14:16:49 2025 +0800
+
+    Menambahkan status repositori ke file hari-04.txt
+
+commit df90c960ad8e813e76bb1ab325ecfa6348a5bf3a
+Author: Arbaniah <inyahrahman@gmail.com>
+Date:   Tue Nov 11 14:13:16 2025 +0800
+
+    Commit pertama: Inisialisasi proyek dan tugas hari 1 & 2
